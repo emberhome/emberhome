@@ -3,7 +3,7 @@
 A junior data engineer :computer: with a background in Product Data Analytics :bar_chart:. Currently enrolled in Le Wagon's Data Engineering bootcamp finishing in August 2025 :sunny:. 
 
 **My skills include**
-![GitHub Icon](https://raw.githubusercontent.com/emberhome/emberhome/main/images
+![GitHub Icon]https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg
 
 <!--
 - 🌱 I’m currently learning ...
