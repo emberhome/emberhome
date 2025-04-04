@@ -3,7 +3,8 @@
 A junior data engineer :computer: with a background in Product Data Analytics :bar_chart:. Currently enrolled in Le Wagon's Data Engineering bootcamp finishing in August 2025 :sunny:. 
 
 **My skills include**
-![Python Logo](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)
+
+![Python Logo](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png){: width="200px" }
 
 <!--
 - 🌱 I’m currently learning ...
