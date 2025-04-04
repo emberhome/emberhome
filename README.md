@@ -4,7 +4,7 @@ A junior data engineer :computer: with a background in Product Data Analytics :b
 
 **My skills include**
 
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python Logo" width="50" height="auto"/><img src="https://1000logos.net/wp-content/uploads/2020/05/Emblem-Google-Cloud.jpg" alt="Big Query" width="50" height="auto"/>
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python Logo" width="50" height="auto"/><img src="https://1000logos.net/wp-content/uploads/2020/05/Emblem-Google-Cloud.jpg" alt="Big Query" width="50" height="100"/>
 
 <!--
 - 🌱 I’m currently learning ...
