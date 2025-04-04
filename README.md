@@ -4,7 +4,7 @@ A junior data engineer :computer: with a background in Product Data Analytics :b
 
 **My skills include**
 
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" title="Python" width="50" height="auto"/><img src="https://1000logos.net/wp-content/uploads/2020/05/Emblem-Google-Cloud.jpg" title="GCP" width="auto" height="70" style="display: inline-block; margin-right:0; margin-left: -10px;"/><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-1024.png" title="Docker" width="auto" height="70" style="display: inline-block; margin-right:10px; margin-left: -10px;"/><img src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/postgreesql-logo-adesivo-sticker.png" title="PostgreSQL" width="auto" height="60" style="display: inline-block; margin-right:0; margin-left: 5px;"/>
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" title="Python" width="50" height="auto"/><img src="https://1000logos.net/wp-content/uploads/2020/05/Emblem-Google-Cloud.jpg" title="GCP" width="auto" height="70" style="display: inline-block; margin-right:0; margin-left: -10px;"/><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-1024.png" title="Docker" width="auto" height="70" style="display: inline-block; margin-right:0; margin-left: -10px;"/><img src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/postgreesql-logo-adesivo-sticker.png" title="PostgreSQL" width="auto" height="70" style="display: inline-block; margin-right:0; margin-left: 0;"/>
 
 
 <!--
