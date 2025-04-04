@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Emma,
 
-
-
-- 🔭 I’m currently working on the bootcamp!
+a junior data engineer :computer: with a background in Product Data Analytics :bar_chart:. Currently enrolled in Le Wagon's Data Engineering bootcamp finishing in August 2025 :sunny:. 
 
 <!--
 - 🌱 I’m currently learning ...
