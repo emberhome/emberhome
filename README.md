@@ -4,7 +4,7 @@ A junior data engineer :computer: with a background in Product Data Analytics :b
 
 **My skills include**
 
-![Python Logo](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png){: width="200px" }
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python Logo" width="200" height="200"/>
 
 <!--
 - 🌱 I’m currently learning ...
